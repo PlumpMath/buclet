@@ -1,9 +1,9 @@
 # Buclet
 
-**status:** uncertain
+**status:** stalled
 
-I'm not quite sure what will be done with Buclet.  I'll probably
-explore other ways of using physics engines with Common Lisp.
+I do not see myself working on or maintaining this project in the
+forseeable future.
 
 
 ## CFFI bindings to Bullet
